@@ -1,0 +1,13 @@
+I'm learning Python right now :flushed:
+
+import turtle as t
+
+t.shape("turtle")
+t.left(45)
+t.forward(200)
+t.circle(73,221.37)
+t.left(180)
+t.circle(73,221.37)
+t.forward(200)
+
+Let's get along well with each other :D
